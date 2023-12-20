@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Комнаты",
+  "name": "IISKursovayaRabotaКомнатаE",
+  "className": "КомнатаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-комната",
+      "modelProjection": "КомнатаE"
+    }
+  ]
+}
